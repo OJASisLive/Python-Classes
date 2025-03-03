@@ -32,4 +32,4 @@ dj = {8:["Mars","Jupiter","Earth"], 3:"Saturn"}
 
 di.update(dj)
 print(di)
-
+print(dj)
